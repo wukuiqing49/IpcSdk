@@ -1,0 +1,3 @@
+rootProject.name='IpcSdk'
+include ':app'
+include ':lib_sdk'
