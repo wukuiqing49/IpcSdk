@@ -8,6 +8,13 @@ package com.wu.ipc.utils;
 import android.os.RemoteException;
 import android.util.Log;
 
+/**
+ * 作者:吴奎庆
+ * <p>
+ * 时间:2023/7/30
+ * <p>
+ * 用途:异常处理类
+ */
 public abstract class Remote {
     public Remote() {
     }

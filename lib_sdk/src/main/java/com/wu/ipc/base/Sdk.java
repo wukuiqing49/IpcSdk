@@ -19,7 +19,7 @@ import java.util.concurrent.LinkedBlockingQueue;
  * <p>
  * 时间:2023/7/30
  * <p>
- * 用途:
+ * 用途:Sdk 基类封装
  */
 
 

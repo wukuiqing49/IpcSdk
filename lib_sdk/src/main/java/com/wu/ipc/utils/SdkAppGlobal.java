@@ -9,7 +9,13 @@ import android.app.Application;
 import android.util.Log;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
-
+/**
+ * 作者:吴奎庆
+ * <p>
+ * 时间:2023/7/30
+ * <p>
+ * 用途: Application 工具类
+ */
 public class SdkAppGlobal {
     public static final String TAG_SDK = "TAG_SDK";
     private static final String TAG = "TAG_SDK" + SdkAppGlobal.class.getSimpleName();

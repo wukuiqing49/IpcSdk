@@ -5,7 +5,7 @@ package com.wu.ipc.listener;
  * <p>
  * 时间:2023/7/30
  * <p>
- * 用途:
+ * 用途:消息更新的接口
  */
 
 
